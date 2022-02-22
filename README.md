@@ -4,8 +4,8 @@
 
 ### The Attributes
 
-1) ID number
-2) Diagnosis (M = malignant, B = benign)
+### 1) ID number
+### 2) Diagnosis (M = malignant, B = benign)
 
 ### 3-32)
 ### Ten real-valued features are computed for each cell nucleus:
