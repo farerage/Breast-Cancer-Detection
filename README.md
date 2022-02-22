@@ -20,4 +20,5 @@
 ### i) symmetry
 ### j) fractal dimension ("coastline approximation" - 1)
 
-### In this article I will show you how to create your very own machine learning python program to detect breast cancer from data. Breast Cancer (BC) is a common cancer for women around the world, and early detection of BC can greatly improve prognosis and survival chances by promoting clinical treatment to patients early. So it’s amazing to be able to possibly help save lives just by using data, python, and machine learning!
+### This is my first project, In this project I try and learn how to create machine learning python program to detect breast cancer from data. Breast Cancer (BC) is a common cancer for women around the world, and early detection of BC can greatly improve prognosis and survival chances by promoting clinical treatment to patients early. So it’s amazing to be able to possibly help save lives just by using data, python, and machine learning!
+### If there is any feedback, please do not hesitate to contact me through this email fareragerry21@gmail.com.
